@@ -25,5 +25,5 @@ cd aquality-automation-and-allure-report
 
 mvn clean test
 
-allure serve allure-results
+allure serve  target/allure-results
 
